@@ -1,0 +1,14 @@
+body{
+  background-image:url(IMG-20240622-WA0047.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  padding: 0;
+  margin:0;
+}
+h1{
+  color: darkred;
+  white-space: pre-line;
+  text-align: center;
+  font-size: 15px;
+}
